@@ -6,9 +6,19 @@ namespace Aplikacja
     {
         static void Main(string[] args)
         {
-            int a = 15;
-            a = a + 7;
-            Console.WriteLine("Wartosc wynosi: " + a);
+            int a = 0;
+
+            while(a<5)
+            {
+                Console.WriteLine(a);
+                a++;
+            }
+
+            Console.WriteLine(" ");
+
+           for (int i = 0; i < 5; i++)
+                Console.WriteLine("Tekst");
+           
         }
     }
 }
