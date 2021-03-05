@@ -6,8 +6,9 @@ namespace Aplikacja
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             int a = 15;
+            a = a + 7;
+            Console.WriteLine("Wartosc wynosi: " + a);
         }
     }
 }

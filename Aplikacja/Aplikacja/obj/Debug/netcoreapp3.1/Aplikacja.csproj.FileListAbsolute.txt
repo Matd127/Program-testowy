@@ -1,0 +1,13 @@
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\bin\Debug\netcoreapp3.1\Aplikacja.exe
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\bin\Debug\netcoreapp3.1\Aplikacja.deps.json
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\bin\Debug\netcoreapp3.1\Aplikacja.runtimeconfig.json
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\bin\Debug\netcoreapp3.1\Aplikacja.runtimeconfig.dev.json
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\bin\Debug\netcoreapp3.1\Aplikacja.dll
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\bin\Debug\netcoreapp3.1\Aplikacja.pdb
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\obj\Debug\netcoreapp3.1\Aplikacja.csprojAssemblyReference.cache
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\obj\Debug\netcoreapp3.1\Aplikacja.AssemblyInfoInputs.cache
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\obj\Debug\netcoreapp3.1\Aplikacja.AssemblyInfo.cs
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\obj\Debug\netcoreapp3.1\Aplikacja.csproj.CoreCompileInputs.cache
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\obj\Debug\netcoreapp3.1\Aplikacja.dll
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\obj\Debug\netcoreapp3.1\Aplikacja.pdb
+G:\Projekty\Program-testowy\Aplikacja\Aplikacja\obj\Debug\netcoreapp3.1\Aplikacja.genruntimeconfig.cache
