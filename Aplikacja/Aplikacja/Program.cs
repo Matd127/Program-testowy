@@ -6,19 +6,33 @@ namespace Aplikacja
     {
         static void Main(string[] args)
         {
-            int a = 0;
 
-            while(a<5)
+            Random rnd = new Random();
+            int los = rnd.Next(1, 50);
+            int proba;
+            float ilerazy = 0;
+            float trafnosc;
+
+            Console.WriteLine("Zgadnij liczbe z zakresu 1-1");
+
+            do
             {
-                Console.WriteLine(a);
-                a++;
-            }
+                ilerazy++;
+                
+                proba = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(" ");
+                    if(proba>los)
+                        Console.WriteLine("Twoja liczba jest za duza!");
+                    else if(los>proba)
+                        Console.WriteLine("Liczba jest za mala!");
+                    else
+                {
+                    trafnosc = (1 / ilerazy)*100;
+                    Console.WriteLine("Gratulacje, trafiłeś za "+ilerazy+" razem. Twoja trafnosc wynosi "+trafnosc+"%");
+                }
+                         
 
-           for (int i = 0; i < 5; i++)
-                Console.WriteLine("Tekst");
-           
+            } while (los!=proba);
         }
     }
 }
